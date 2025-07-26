@@ -1,36 +1,21 @@
 # JAMstack Portfolio - Task 1
 
-This is a simple portfolio website created as part of Task 1 for the internship at KeshavSoft.
+This is a simple and elegant portfolio website created as part of **Task 1** for the internship at **KeshavSoft**.
 
-## 🔗 Live Demo
+The site showcases basic sections such as:
 
-[Click here to view the live site](https://kurwaRevathi.github.io/jamstack-portfolio-task1/)
+- Home
+- About
+- Projects
+- Contact
 
-## 📁 Project Structure
+🎓 **Status**: Graduated  
+🚀 **Built With**: HTML5 + CSS3 (No JS needed for this task)
 
-jamstack-portfolio-task1/
-├── index.html # Home Page
-├── about.html # About Page
-├── contact.html # Contact Page
-├── css/
-│ └── style.css # Stylesheet
+---
 
-markdown
-Copy
-Edit
+🔗 **Live Demo**: [View Site on Netlify](https://inquisitive-otter-ff5cbd.netlify.app)
 
-## 🚀 Technologies Used
+---
 
-- **HTML5**
-- **CSS3**
-- **JAMstack Principles** (Static Markup)
-- **GitHub Pages** for deployment
-
-## ✍️ Author
-
-**Revathi Kurwa**  
-[GitHub Profile](https://github.com/kurwaRevathi)
-
-## 📌 Note
-
-This project does not include a "Projects" section or JavaScript functionality to keep it clean and minimal as per requirements.
+© 2025 Revathi Kurwa
